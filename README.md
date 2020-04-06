@@ -9,7 +9,6 @@ npm i
 
 ## Config.env
 Repalce all environment variable with your's
-DB_URI
-JWT_SECRET
-EMAIL_USER 
-EMAIL_PASSWORD
+DB_URI JWT_SECRET  EMAIL_USER  EMAIL_PASSWORD
+
+ 
