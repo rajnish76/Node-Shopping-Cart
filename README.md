@@ -8,7 +8,7 @@ npm i
 ```
 
 ## Config.env
-Repalce all environment variable with your's
+Create config.env file inside config folder and Setup all environment variable
 DB_URI | JWT_SECRET | EMAIL_USER | EMAIL_PASSWORD
 
  
